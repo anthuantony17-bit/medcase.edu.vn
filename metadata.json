@@ -1,0 +1,6 @@
+{
+  "name": "MEDCASEVN AI",
+  "description": "Nền tảng đào tạo y khoa lâm sàng và phân tích bệnh án thông minh cùng AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
